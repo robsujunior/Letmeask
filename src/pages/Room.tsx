@@ -7,7 +7,7 @@ import "../styles/room.scss";
 import { useEffect, useState } from "react";
 import { useAuth } from "../hooks/useAuth";
 import { database } from "../services/firebase";
-import { ref, push, onValue, set } from "firebase/database";
+import { ref, push, onValue } from "firebase/database";
 
 type RoomParams = {
   id: string;

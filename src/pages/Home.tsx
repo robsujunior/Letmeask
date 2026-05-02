@@ -38,6 +38,11 @@ export function Home() {
       return;
     }
 
+    if (firebaseRoom.val().endedAt) {
+      alert("Room already closed.");
+      return;
+    }
+
     navigate(`/rooms/${roomCode}`);
   }
 

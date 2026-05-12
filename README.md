@@ -76,7 +76,7 @@ Antes de começar, você vai precisar ter instalado:
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/seu-usuario/letmeask.git](https://github.com/robsujunior/Letmeask)
+git clone https://github.com/robsujunior/Letmeask.git
 
 # Entre na pasta do projeto
 cd letmeask

@@ -9,7 +9,6 @@
   <p>
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/robsujunior/letmeask?color=7159c1">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/robsujunior/letmeask?color=7159c1">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-7159c1">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/robsujunior/letmeask?color=7159c1">
   </p>
 </div>
